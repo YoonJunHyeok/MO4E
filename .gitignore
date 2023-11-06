@@ -1,0 +1,4 @@
+logs
+.env
+plugins
+__pycache__
